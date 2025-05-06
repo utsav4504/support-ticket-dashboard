@@ -1,0 +1,122 @@
+[
+    {
+      "id": "TKT-1001",
+      "title": "Login failure on Safari for SSO users",
+      "customer": "Acme Corp",
+      "customerEmail": "support@acmecorp.com",
+      "priority": "High",
+      "status": "Open",
+      "createdAt": "2025-05-01T10:15:00Z",
+      "updatedAt": "2025-05-01T14:30:00Z",
+      "description": "Users experiencing redirect loop during SSO login on Safari browsers. Happens only with enterprise accounts.",
+      "category": "Authentication"
+    },
+    {
+      "id": "TKT-1002",
+      "title": "Dashboard data not refreshing",
+      "customer": "TechInnovate LLC",
+      "customerEmail": "help@techinnovate.com",
+      "priority": "Medium",
+      "status": "In Progress",
+      "createdAt": "2025-04-29T08:22:00Z",
+      "updatedAt": "2025-05-01T09:15:00Z",
+      "description": "Analytics dashboard data is stale and not updating with new information despite refreshing the page.",
+      "category": "Dashboard"
+    },
+    {
+      "id": "TKT-1003",
+      "title": "Payment gateway timeout",
+      "customer": "FinTech Solutions",
+      "customerEmail": "contact@fintechsol.com",
+      "priority": "High",
+      "status": "Open",
+      "createdAt": "2025-04-30T12:00:00Z",
+      "updatedAt": "2025-05-01T10:00:00Z",
+      "description": "Transactions are failing with timeout errors during peak hours.",
+      "category": "Payments"
+    },
+    {
+      "id": "TKT-1004",
+      "title": "Broken links in help section",
+      "customer": "EduNext",
+      "customerEmail": "support@edunext.com",
+      "priority": "Low",
+      "status": "Open",
+      "createdAt": "2025-04-25T07:50:00Z",
+      "updatedAt": "2025-04-26T09:20:00Z",
+      "description": "Several articles in the help section link to 404 pages.",
+      "category": "UI/UX"
+    },
+    {
+      "id": "TKT-1005",
+      "title": "Mobile app crash on launch",
+      "customer": "TravelEase",
+      "customerEmail": "apps@travelease.io",
+      "priority": "Critical",
+      "status": "In Progress",
+      "createdAt": "2025-05-01T06:45:00Z",
+      "updatedAt": "2025-05-01T07:30:00Z",
+      "description": "Latest version of the mobile app crashes immediately on launch for Android users.",
+      "category": "Mobile"
+    },
+    {
+      "id": "TKT-1006",
+      "title": "Incorrect billing amount",
+      "customer": "HealthWare",
+      "customerEmail": "billing@healthware.com",
+      "priority": "High",
+      "status": "Open",
+      "createdAt": "2025-04-28T15:20:00Z",
+      "updatedAt": "2025-04-30T11:40:00Z",
+      "description": "Invoices are generated with duplicate charges for premium users.",
+      "category": "Billing"
+    },
+    {
+      "id": "TKT-1007",
+      "title": "Notifications not triggering",
+      "customer": "QuickChat",
+      "customerEmail": "admin@quickchat.app",
+      "priority": "Medium",
+      "status": "Open",
+      "createdAt": "2025-04-27T09:10:00Z",
+      "updatedAt": "2025-04-28T10:05:00Z",
+      "description": "Push and email notifications are not being sent for new messages.",
+      "category": "Notifications"
+    },
+    {
+      "id": "TKT-1008",
+      "title": "Search results inaccurate",
+      "customer": "BookVerse",
+      "customerEmail": "support@bookverse.com",
+      "priority": "Low",
+      "status": "Closed",
+      "createdAt": "2025-04-20T14:00:00Z",
+      "updatedAt": "2025-04-21T13:30:00Z",
+      "description": "Search function returning irrelevant results for keyword queries.",
+      "category": "Search"
+    },
+    {
+      "id": "TKT-1009",
+      "title": "File upload stuck at 99%",
+      "customer": "CloudDocs",
+      "customerEmail": "cloud@clouddocs.net",
+      "priority": "High",
+      "status": "In Progress",
+      "createdAt": "2025-04-26T11:11:00Z",
+      "updatedAt": "2025-04-27T12:45:00Z",
+      "description": "File uploads do not complete and get stuck at 99% progress.",
+      "category": "Storage"
+    },
+    {
+      "id": "TKT-1010",
+      "title": "User roles not updating",
+      "customer": "ManageHR",
+      "customerEmail": "help@managehr.com",
+      "priority": "Medium",
+      "status": "Open",
+      "createdAt": "2025-04-22T16:30:00Z",
+      "updatedAt": "2025-04-24T09:00:00Z",
+      "description": "Changes to user roles and permissions are not being reflected immediately.",
+      "category": "Admin"
+    }
+  ]
